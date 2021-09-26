@@ -2,6 +2,6 @@
 
 - For those who are thirsty for travel, there are various travel packages in Bangladesh.
 - React and javascript are used here
-- This project live server link( https://jolly-shannon-7fa8b7.netlify.app/ )
+- This project live server link( https://to-to-travellar.netlify.app/ )
 
 
