@@ -17,8 +17,8 @@ const Package = (props) => {
                     <h5 className="card-text"> {name}</h5>
                     <p className="card-text">Travel-Date : {DateOfTravel}</p>
                     <p className="card-text">Retrun-Date : {RetrunDate}</p>
-                    <h6 className="card-text">Travel-Expenses : ৳ {TravelExpenses} </h6>
-                    <h6 className="card-text">Booking-Money : ৳ {BookingMoney}  </h6>
+                    <h6 className="card-text">Travel-Expenses :  {TravelExpenses} </h6>
+                    <h6 className="card-text">Booking-Money :  {BookingMoney}  </h6>
                 </div>
 
                 <div>
