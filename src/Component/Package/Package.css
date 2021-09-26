@@ -1,0 +1,12 @@
+.btn{
+    background-color: goldenrod;
+    margin-bottom: 5px;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    font-size:15px;
+}
+.img{
+    width: 280px;
+    height: 179px;
+}
